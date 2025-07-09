@@ -7,8 +7,8 @@ function App() {
     <>
       <div className="min-h-screen bg-gray-700 text-white">
         <NavBar/>
-        <div className="flex justify-center items-center text-lg font-bold p-10">
-          Hello World
+        <div className="flex justify-center items-center text-3xl font-bold p-10">
+          HOME PAGE
         </div>
       </div>
     </>
